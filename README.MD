@@ -48,9 +48,9 @@ My primary objective is to continuously grow by acquiring new skills and advanci
 
 ## Certifications
 
+- [![CompTIA Security+ ce Certification](https://img.shields.io/badge/CompTIA_Security%2B_ce_Certification-E60000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/a5cd628c-47a9-41b8-8ac0-d9ace22ac7f6/public_url)
 - [![Google IT Support Professional Certificate](https://img.shields.io/badge/Google_IT_Support_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/5924a725-696c-4a9b-9a47-65bcb3a79c78/public_url)
 - [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/f966502d-be9b-4953-88bb-efed99eddfb1/public_url)
-- [![CompTIA Security+ ce Certification](https://img.shields.io/badge/CompTIA_Security%2B_ce_Certification-E60000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/a5cd628c-47a9-41b8-8ac0-d9ace22ac7f6/public_url)
 
 ## Contact
 
