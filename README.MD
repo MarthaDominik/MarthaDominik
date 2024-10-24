@@ -30,9 +30,8 @@ My primary objective is to continuously grow by acquiring new skills and advanci
 
 ### Security Operations & Monitoring
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
-[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds)
-[![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-1E90FF?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-antivirus)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
+[![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-1E90FF?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/security/business/microsoft-defender)
 
 ### Vulnerability Management
 [![Nessus](https://img.shields.io/badge/Nessus-00C7B7?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
@@ -40,6 +39,8 @@ My primary objective is to continuously grow by acquiring new skills and advanci
 
 ### Incident Response and Forensics
 [![Autopsy](https://img.shields.io/badge/Autopsy-3E9BCF?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.sleuthkit.org/autopsy/)
+[![Registry Explorer](https://img.shields.io/badge/Registry_Explorer-000000?style=for-the-badge)](https://ericzimmerman.github.io/#!index.md)
+[![RegRipper](https://img.shields.io/badge/RegRipper-000000?style=for-the-badge)](https://github.com/keydet89/RegRipper3.0)
 
 ### Cryptography
 [![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)](https://www.openssl.org/)
@@ -48,9 +49,9 @@ My primary objective is to continuously grow by acquiring new skills and advanci
 
 ## Certifications
 
-- [![CompTIA Security+ ce Certification](https://img.shields.io/badge/CompTIA_Security%2B_ce_Certification-E60000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/a5cd628c-47a9-41b8-8ac0-d9ace22ac7f6/public_url)
-- [![Google IT Support Professional Certificate](https://img.shields.io/badge/Google_IT_Support_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/5924a725-696c-4a9b-9a47-65bcb3a79c78/public_url)
-- [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/f966502d-be9b-4953-88bb-efed99eddfb1/public_url)
+![CompTIA Security+ ce Certification](https://img.shields.io/badge/CompTIA_Security%2B_ce_Certification-E60000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/a5cd628c-47a9-41b8-8ac0-d9ace22ac7f6/public_url)
+![Google IT Support Professional Certificate](https://img.shields.io/badge/Google_IT_Support_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/5924a725-696c-4a9b-9a47-65bcb3a79c78/public_url)
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/f966502d-be9b-4953-88bb-efed99eddfb1/public_url)
 
 ## Contact
 
