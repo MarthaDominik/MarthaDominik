@@ -1,4 +1,4 @@
-# Marta Dominik - Junior Cybersecurity Analyst
+# Marta Dominik - Cybersecurity Analyst
 
 ## Brief Introduction
 
