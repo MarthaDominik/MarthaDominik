@@ -19,6 +19,7 @@ My primary objective is to continuously grow by acquiring new skills and advanci
 | Network Traffic Analysis | [Wireshark: Network Traffic Capture and Analysis on Kali Linux](https://github.com/MarthaDominik/Wireshark-Network-Traffic-Capture-and-Analysis-on-Kali-Linux) |
 | Phishing Analysis       | [Phishing Incident Report](https://github.com/MarthaDominik/Phishing-Incident-Report) |
 | Windows Forensics       | [Windows Forensic Investigation Using Registry Analysis](https://github.com/MarthaDominik/Windows-Forensic-Investigation-Using-Registry-Analysis) |
+| Windows Domain Setup and Administration       | [Windows Domain Setup and Administration](https://github.com/MarthaDominik/Windows-Domain-Setup-and-Administration) |
 
 ## Tools
 
