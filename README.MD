@@ -1,16 +1,17 @@
-# Marta Dominik - Cybersecurity Analyst
+# Marta Dominik - Exploring the World of IT and Building My Journey
 
 ## Brief Introduction
 
-As I embark on a career in cybersecurity, my passion for protecting digital landscapes and my commitment to maintaining the integrity of sensitive information drive me forward. With a strong aptitude for problem-solving, meticulous attention to detail, and a dedication to continuous learning, I am eager to identify and mitigate security risks, ensuring the confidentiality, integrity, and availability of critical assets.
+As I navigate the diverse fields of IT, I am driven by a passion for learning, problem-solving, and building impactful projects. My journey combines curiosity, creativity, and a commitment to continuous growth, allowing me to explore various areas of IT, including cybersecurity and beyond.
 
-My core values of integrity, responsibility, and collaboration align seamlessly with my interest in cybersecurity. I am dedicated to supporting organizations in achieving robust security postures and safeguarding their operations and stakeholders. By leveraging my skills and values, I aim to contribute meaningfully to the field of cybersecurity and help create a safer digital environment for all.
+With a foundation in integrity, collaboration, and responsibility, I aim to contribute to meaningful technological advancements and create innovative solutions that make a difference.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marta-dominik-a67803233/)
 
 ## Objective
 
-My primary objective is to continuously grow by acquiring new skills and advancing my career in the field of cybersecurity. I aim to develop a comprehensive portfolio that effectively reflects my expertise and capabilities. I am fully committed to this journey and dedicated to continuous learning in the field of cybersecurity.
+My primary objective is to continue growing by acquiring new skills and advancing my career. I aim to develop a comprehensive portfolio that effectively reflects my expertise and capabilities. I am fully committed to this journey and dedicated to continuous learning in the field of technology and computing.
 
 ## Skills and Associated Projects
 
